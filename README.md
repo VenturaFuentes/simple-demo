@@ -1,2 +1,2 @@
 # simple-demo
-repo simple a modo demo para entrenamiento con github
+Repositoro simple a modo demostración para entrenamiento con github
